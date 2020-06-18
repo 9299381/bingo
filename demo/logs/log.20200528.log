@@ -1,0 +1,8 @@
+{"level":"info","msg":"queue start ...","time":"2020-05-28 15:03:45"}
+{"level":"info","msg":"http start at 127.0.0.1:8340","time":"2020-05-28 15:03:45"}
+{"level":"info","msg":"Found job on demo1","time":"2020-05-28 15:06:11"}
+{"client_ip":"127.0.0.1:60724","level":"error","msg":"event register error","request_id":"1377302437712363520","time":"2020-05-28 15:08:10"}
+{"level":"info","msg":"http stop now","time":"2020-05-28 15:08:44"}
+{"level":"info","msg":"queue stop ...","time":"2020-05-28 15:08:44"}
+{"level":"info","msg":"delayQ stop ...","time":"2020-05-28 15:08:44"}
+{"level":"info","msg":"bingo stop for:quit for interrupt","time":"2020-05-28 15:08:44"}

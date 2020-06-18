@@ -1,0 +1,5 @@
+{"client_ip":"127.0.0.1:62913","level":"error","msg":"event register error","request_id":"1377572536163762176","time":"2020-05-29 09:01:26"}
+{"level":"info","msg":"http stop now","time":"2020-05-29 09:02:41"}
+{"level":"info","msg":"queue stop ...","time":"2020-05-29 09:02:41"}
+{"level":"info","msg":"delayQ stop ...","time":"2020-05-29 09:02:41"}
+{"level":"info","msg":"bingo stop for:quit for terminated","time":"2020-05-29 09:02:41"}

@@ -1,0 +1,15 @@
+{"level":"info","msg":"command start ...","time":"2020-05-23 16:13:48"}
+{"level":"error","msg":"no route for demo.one","time":"2020-05-23 16:13:48"}
+{"level":"info","msg":"command stop ...","time":"2020-05-23 16:13:48"}
+{"level":"info","msg":"command start ...","time":"2020-05-23 16:13:56"}
+{"level":"info","msg":"cmd.one command result : \u0026{200 0000 cmd over 请求成功} ","time":"2020-05-23 16:13:56"}
+{"level":"info","msg":"command stop ...","time":"2020-05-23 16:13:56"}
+{"level":"info","msg":"command start ...","time":"2020-05-23 16:14:26"}
+{"level":"info","msg":"cmd.one command result : \u0026{200 0000 cmd over 请求成功} ","time":"2020-05-23 16:14:26"}
+{"level":"info","msg":"command stop ...","time":"2020-05-23 16:14:26"}
+{"level":"info","msg":"command start ...","time":"2020-05-23 16:15:46"}
+{"level":"error","msg":"no route for c.one","time":"2020-05-23 16:15:46"}
+{"level":"info","msg":"command stop ...","time":"2020-05-23 16:15:46"}
+{"level":"info","msg":"command start ...","time":"2020-05-23 16:17:25"}
+{"level":"error","msg":"no route for aaa","time":"2020-05-23 16:17:25"}
+{"level":"info","msg":"command stop ...","time":"2020-05-23 16:17:25"}
